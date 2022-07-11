@@ -1,5 +1,5 @@
 
 ### Prolems to solve:
-- [x] Contains Duplicate (leetcode 217)
+- [ ] Contains Duplicate (leetcode 217)
 - [ ] Missing Number (leetcode 268)
 - [ ] Find All Numbers Disappeared in an Array (leetcode 448)
