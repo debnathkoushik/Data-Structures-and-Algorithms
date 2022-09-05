@@ -6,4 +6,4 @@
 - √ Majority Element (leetcode 169)
 - √ Product of Array Except Self (leetcode 238)
 - [ ] Single Number (leetcode 136)
-- [ ] Convert 1D Array Into 2D Array (leetcode 2022)
+- √ Convert 1D Array Into 2D Array (leetcode 2022)
